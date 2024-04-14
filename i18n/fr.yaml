@@ -39,3 +39,6 @@
 
 - id: search_close
   translation: to close
+
+- id: error404
+  translation: Page non trouvée
